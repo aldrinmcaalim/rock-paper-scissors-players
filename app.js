@@ -10,7 +10,7 @@
 //     return choice;
 // }
 
-function rockPaperScissors(choice1, choice2)
+function rps(choice1, choice2)
 {
     let player1 = choice1.toLowerCase();
     let player2 = choice2. toLowerCase();
